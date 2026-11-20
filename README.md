@@ -10,7 +10,7 @@ npx skills add aarvaken/skills
 
 Velg skillene og agenten din (Claude Code, Codex, Cursor m.fl.). Agenten må også være koblet til Årvåken: se [Agentoppsett](https://aarvaken.no/hjelp/agent-setup).
 
-**Claude-appen:** last ned [alle skills som ZIP](https://aarvaken.no/skills/aarvaken-skills.zip) eller én og én fra [aarvaken.no/hjelp/skills](https://aarvaken.no/hjelp/skills), og last dem opp under Customize → Skills.
+**Claude-appen:** last ned skillene én og én fra [aarvaken.no/hjelp/skills](https://aarvaken.no/hjelp/skills#last-ned) (Claude tar én skill per ZIP), og last dem opp under Customize → Skills.
 
 ## Skills
 
